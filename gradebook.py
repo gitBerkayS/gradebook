@@ -3,7 +3,7 @@
 #two dimentional list
 last_semester_gradebook = [["politics", 80], ["latin", 96], ["dance", 97], ["architecture", 65]]
 print("Last Semester Gradebook:\n", last_semester_gradebook)
-gradebook = [["physics",	98], ["calculus", 97], ["poetry",	85], ["history", 88]]
+gradebook = [["physics", 98], ["calculus", 97], ["poetry", 85], ["history", 88]]
 print(gradebook)
 
 #appending more subjects
